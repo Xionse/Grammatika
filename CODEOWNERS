@@ -1,0 +1,11 @@
+# This is a comment in the CODEOWNERS file
+
+# Assigning ownership for a specific file
+/src/app.js @AnthonyByansi
+/src/models/* @engineering-team
+
+# Assigning ownership for a directory
+/src/components/ @frontend-team
+
+# Assigning ownership for all files in a directory and its subdirectories
+/src/utils/**/* @engineering-team
