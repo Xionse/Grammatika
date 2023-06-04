@@ -8,4 +8,4 @@ Grammatika is a powerful and versatile natural language processing (NLP) framewo
 
 * **Efficient Model Training**: Grammatika provides efficient model training capabilities, enabling you to train state-of-the-art machine learning and deep learning models on your own datasets. It supports popular model architectures like recurrent neural networks (RNNs), convolutional neural networks (CNNs), and transformer-based models such as BERT or GPT.
 
-* **Efficient Model Training**: Grammatika provides efficient model training capabilities, enabling you to train state-of-the-art machine learning and deep learning models on your own datasets. It supports popular model architectures like recurrent neural networks (RNNs), convolutional neural networks (CNNs), and transformer-based models such as BERT or GPT.
+* **Comprehensive Documentation**: We have provided detailed documentation that guides you through the installation, usage, and customization of Grammatika. The documentation includes comprehensive examples, code snippets, and explanations to help you get started quickly and make the most of the framework's capabilities.
